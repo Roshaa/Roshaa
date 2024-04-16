@@ -1,3 +1,9 @@
+<h1>Welcome to my github page</h1>
+<p>Here you can see all of my projects with their descriptions, the ones i consider more relevant are pinned below</p>
+<p>Portfolio with images soon...</p>
+<br>
+<h1>My skills</h1>
+<br>
 <img src="https://github.com/Roshaa/Roshaa/assets/48363753/acdb91a5-e74c-4fca-8de1-4f74413c1ef6" width="100" height="100">
 <img src="https://github.com/Roshaa/Roshaa/assets/48363753/272b286e-9f4f-48f5-9ed2-ab8d1d6314bd" width="100" height="100">
 <img src="https://github.com/Roshaa/Roshaa/assets/48363753/906c08e9-907b-4b89-8409-9448b0a83dc7" width="100" height="100">
@@ -10,7 +16,3 @@
 <img src="https://github.com/Roshaa/Roshaa/assets/48363753/ca7f51f1-3657-4254-98ea-a0c051962fc7" width="100" height="100">
 <img src="https://github.com/Roshaa/Roshaa/assets/48363753/3b19a00b-3683-44ac-aba7-fb4058a48f55" width="100" height="100">
 <br>
-
-<h1>Welcome to my github page</h1>
-<p>here you can see all of my projects with their descriptions, the ones i consider more relevant are pinned below</p>
-<p>portfolio with images soon...</p>
