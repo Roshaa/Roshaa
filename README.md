@@ -8,7 +8,9 @@
 <img src="https://github.com/Roshaa/Roshaa/assets/48363753/7d41ebb8-a5a8-4f3d-bc20-988e4126b3ac" width="100" height="100">
 <img src="https://github.com/Roshaa/Roshaa/assets/48363753/2f9018d3-f1d7-4f08-95e6-0f4edf295ac6" width="100" height="100">
 <img src="https://github.com/Roshaa/Roshaa/assets/48363753/ca7f51f1-3657-4254-98ea-a0c051962fc7" width="100" height="100">
+<img src="https://github.com/Roshaa/Roshaa/assets/48363753/3b19a00b-3683-44ac-aba7-fb4058a48f55" width="100" height="100">
 <br>
+
 <h1>Welcome to my github page</h1>
 <p>here you can see all of my projects with their descriptions, the ones i consider more relevant are pinned below</p>
 <p>portfolio with images soon...</p>
