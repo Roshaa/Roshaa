@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**Roshaa/Roshaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/Roshaa/Roshaa/assets/48363753/acdb91a5-e74c-4fca-8de1-4f74413c1ef6" width="100" height="100">
+<img src="https://github.com/Roshaa/Roshaa/assets/48363753/272b286e-9f4f-48f5-9ed2-ab8d1d6314bd" width="100" height="100">
+<img src="https://github.com/Roshaa/Roshaa/assets/48363753/906c08e9-907b-4b89-8409-9448b0a83dc7" width="100" height="100">
+<img src="https://github.com/Roshaa/Roshaa/assets/48363753/69fb9030-00df-4cb0-91bc-ed616d9c878e" width="100" height="100">
+<img src="https://github.com/Roshaa/Roshaa/assets/48363753/22b46960-300b-4986-8719-e29b187060a8" width="100" height="100">
+<img src="https://github.com/Roshaa/Roshaa/assets/48363753/6bf63e7c-e4e9-4ea0-a556-8fa1bb7ef1cc" width="100" height="100">
+<img src="https://github.com/Roshaa/Roshaa/assets/48363753/7d41ebb8-a5a8-4f3d-bc20-988e4126b3ac" width="100" height="100">
+<img src="https://github.com/Roshaa/Roshaa/assets/48363753/2f9018d3-f1d7-4f08-95e6-0f4edf295ac6" width="100" height="100">
+<img src="https://github.com/Roshaa/Roshaa/assets/48363753/ca7f51f1-3657-4254-98ea-a0c051962fc7" width="100" height="100">
+<br>
+<h1>Welcome to my github page</h1>
+<p>here you can see all of my projects with their descriptions, the ones i consider more relevant are pinned below</p>
+<p>portfolio with images soon...</p>
