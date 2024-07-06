@@ -1,6 +1,3 @@
-<h1>Welcome to my github page</h1>
-<p>Here you can see all of my projects with their descriptions, the ones i consider more relevant are pinned below</p>
-<p>Portfolio with images soon...</p>
 <br>
 <h1>My skills</h1>
 <br>
