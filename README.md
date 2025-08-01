@@ -28,6 +28,12 @@ I am a C#/.NET developer with two years of professional experience and a deep pa
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+### 🧠 Problem Solving & CS Fundamentals
+
+To continuously strengthen my grasp of core Computer Science principles, I actively solve problems on LeetCode. This practice is essential for writing efficient, optimized code and preparing for technical challenges.
+
+[![My LeetCode Stats](https://leetcard.jacoblin.cool/Roshaa?theme=dark&font=Syne%20Mono)](https://leetcode.com/u/Roshaa/)
+
 
 ### 📫 How to Reach Me
 
