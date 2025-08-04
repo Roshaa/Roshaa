@@ -4,16 +4,6 @@
 
 I am a C#/.NET developer with two years of professional experience and a deep passion for building scalable, resilient, and cloud-native backend systems. 
 
----
-
-### 🔭 What I'm Currently Focused On
-
-*   🚀 **Diving deep into Kubernetes** and actively studying for the **Certified Kubernetes Application Developer (CKAD)** exam.
-*   🌱 **Refining my Infrastructure as Code (IaC)** skills with Terraform to automate cloud resource provisioning.
-*   👨‍💻 **Continuously mastering advanced C#/.NET concepts**, focusing on system design patterns, performance optimization, and writing clean, testable code.
-
----
-
 ### 🛠️ My Tech Stack & Tools
 
 #### Languages & Frameworks
