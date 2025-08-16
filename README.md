@@ -20,4 +20,4 @@ I am a C#/.NET developer with two years of professional experience.
 
 ### 📫 How to Reach Me
 
-*   **LinkedIn:** [https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/ricardo-rocha-43bb952b9/)
+*   **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ricardo-rocha-43bb952b9/)
