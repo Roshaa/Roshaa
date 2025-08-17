@@ -1,6 +1,6 @@
 # Hi there, I'm Ricardo Rocha 👋
 
-## Backend & Cloud | C# | .NET | AWS
+## C# | .NET | AWS
 
 I am a C#/.NET developer with two years of professional experience. 
 
