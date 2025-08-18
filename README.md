@@ -13,6 +13,8 @@ I am a C#/.NET developer with two years of professional experience.
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+![Profile views](https://komarev.com/ghpvc/?username=Roshaa&label=Profile%20views&color=0e75b6&style=flat)
+
 ### 🧠 Leetcode Profile
 
 [![My LeetCode Stats](https://leetcard.jacoblin.cool/Roshaa?theme=dark&font=Syne%20Mono)](https://leetcode.com/u/Roshaa/)
