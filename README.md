@@ -15,6 +15,11 @@ I am a C#/.NET developer with two years of professional experience.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Roshaa&label=Profile%20views&color=0e75b6&style=flat)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roshaa&show_icons=true&theme=transparent)
+![Streak](https://streak-stats.demolab.com?user=Roshaa&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshaa&layout=compact&theme=transparent)
+
+
 ### 🧠 Leetcode Profile
 
 [![My LeetCode Stats](https://leetcard.jacoblin.cool/Roshaa?theme=dark&font=Syne%20Mono)](https://leetcode.com/u/Roshaa/)
