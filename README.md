@@ -4,6 +4,11 @@
 
 I am a C#/.NET developer with two years of professional experience. 
 
+### 📫 How to Reach Me
+
+*   **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ricardo-rocha-43bb952b9/)
+
+
 ### 🛠️ My Tech Stack & Tools
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -25,6 +30,3 @@ I am a C#/.NET developer with two years of professional experience.
 [![My LeetCode Stats](https://leetcard.jacoblin.cool/Roshaa?theme=dark&font=Syne%20Mono)](https://leetcode.com/u/Roshaa/)
 
 
-### 📫 How to Reach Me
-
-*   **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ricardo-rocha-43bb952b9/)
