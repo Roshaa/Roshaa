@@ -3,6 +3,7 @@
 ## C# | .NET | AWS
 
 I am a C#/.NET developer with two years of professional experience. 
+Curating and refactoring my projects. All my past repos stay private until it meets my current standards; happy to share code samples on request.
 
 ### 📫 How to Reach Me
 
