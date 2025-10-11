@@ -2,8 +2,7 @@
 
 ## C# | .NET | AWS | Azure
 
-I am a C#/.NET developer with two years of professional experience. 
-Curating and refactoring my projects. All my past repos stay private until it meets my current standards; happy to share code samples on request.
+I am a C#/.NET developer with two years of professional experience. With both AWS and Azure developer certifications.
 
 ### 📫 How to Reach Me
 
@@ -18,7 +17,6 @@ Curating and refactoring my projects. All my past repos stay private until it me
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Roshaa&label=Profile%20views&color=0e75b6&style=flat)
