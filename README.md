@@ -17,13 +17,7 @@ I am a C#/.NET developer with two years of professional experience. With both AW
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
 ![Profile views](https://komarev.com/ghpvc/?username=Roshaa&label=Profile%20views&color=0e75b6&style=flat)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roshaa&show_icons=true&theme=transparent)
-![Streak](https://streak-stats.demolab.com?user=Roshaa&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshaa&layout=compact&theme=transparent)
-
 
 ### 🧠 Leetcode Profile
 
