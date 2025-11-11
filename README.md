@@ -1,5 +1,3 @@
-# Hi there, I'm Ricardo Rocha 👋
-
 ## C# | .NET | Azure
 
 .NET developer with 2 years of professional experience.  
