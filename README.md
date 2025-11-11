@@ -1,22 +1,13 @@
 # Hi there, I'm Ricardo Rocha 👋
 
-## C# | .NET | Azure | React
+## C# | .NET | Azure
 
-C#/.NET developer with 2 years of professional experience. Azure-first mindset, backed by AWS and Azure developer certifications.  
-Right now: building real-world style projects with .NET, Azure, and React.
+.NET developer with 2 years of professional experience.  
+I work across .NET, SQL, React, Azure, and CI/CD to ship solutions.
 
 ### 📫 How to Reach Me
 
 - **LinkedIn:** [linkedin.com/in/ricardo-rocha-43bb952b9](https://www.linkedin.com/in/ricardo-rocha-43bb952b9/)
-
----
-
-### 🧱 What I'm Into
-
-- Azure-native backend APIs with .NET
-- Messaging, storage, and cloud architecture that looks like production
-- React frontends talking to real APIs
-- Clean repos, CI/CD, and readable code over tutorial junk
 
 ---
 
@@ -36,8 +27,25 @@ Right now: building real-world style projects with .NET, Azure, and React.
 
 ---
 
+### 🧾 Certifications
+
+![AZ-204](https://img.shields.io/badge/AZ--204%20Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS Developer Associate](https://img.shields.io/badge/AWS%20Developer%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+### ⭐ Highlighted Projects
+
+- **Azure File Ingestion (APIM + Functions + Blob + Queue + Cosmos)** · Secure upload → event-driven processing → Cosmos DB, wired with GitHub Actions and Azure resources that look like real-world infra.  
+  `https://github.com/Roshaa/Azure_File_Ingestion`
+- **Gym Management Microservices (.NET + Azure)** · Multi-service backend (auth, members, promos, etc.) showcasing clean architecture, messaging, and cloud-first design.  
+  `https://github.com/Roshaa/Gym-Management-Microservices`
+- **MMO Post Office (Azure Service Bus Topics)** · Messaging-heavy scenario using topics, subscriptions, sessions, filters, and DLQs to prove comfort with advanced broker patterns.  
+  `https://github.com/Roshaa/MMO-PostOffice-ServiceBus`
+
+---
+
 ### 🚀 Current Focus
 
-- Shipping Azure-based .NET APIs hooked into real services
-- Pairing them with React frontends
-- Growing this GitHub as the main proof of work
+- Deepening Azure integration across real projects (APIM, Functions, Service Bus, storage, observability)
+- Building React frontends on top of .NET APIs to show end-to-end delivery
