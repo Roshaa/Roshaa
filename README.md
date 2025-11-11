@@ -37,15 +37,12 @@ I work across .NET, SQL, React, Azure, and CI/CD to ship solutions.
 ### ⭐ Highlighted Projects
 
 - **Azure File Ingestion (APIM + Functions + Blob + Queue + Cosmos)** · Secure upload → event-driven processing → Cosmos DB, wired with GitHub Actions and Azure resources that look like real-world infra.  
-  `https://github.com/Roshaa/Azure_File_Ingestion`
-- **Gym Management Microservices (.NET + Azure)** · Multi-service backend (auth, members, promos, etc.) showcasing clean architecture, messaging, and cloud-first design.  
-  `https://github.com/Roshaa/Gym-Management-Microservices`
-- **MMO Post Office (Azure Service Bus Topics)** · Messaging-heavy scenario using topics, subscriptions, sessions, filters, and DLQs to prove comfort with advanced broker patterns.  
-  `https://github.com/Roshaa/MMO-PostOffice-ServiceBus`
+- **Gym Management Microservices (.NET + Azure)** · Multi-service backend (auth, members, promos, etc.) showcasing microservices architecture.  
+- **MMO Post Office (Azure Service Bus Topics)** · Messaging-heavy scenario using topics, subscriptions, sessions, filters, and DLQs.  
 
 ---
 
 ### 🚀 Current Focus
 
-- Deepening Azure integration across real projects (APIM, Functions, Service Bus, storage, observability)
-- Building React frontends on top of .NET APIs to show end-to-end delivery
+- Deepening Azure integration 
+- Building React frontends
