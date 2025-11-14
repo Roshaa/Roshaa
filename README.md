@@ -8,7 +8,7 @@ I work across .NET, SQL, React, Azure, and CI/CD.
 ### 📫 Links
 
 - **LinkedIn:** [linkedin.com/in/ricardo-rocha-43bb952b9](https://www.linkedin.com/in/ricardo-rocha-43bb952b9/)
-- **LeetCode:** [@your-handle]((https://leetcode.com/u/Roshaa/))
+- **LeetCode:** [@Roshaa](https://leetcode.com/u/Roshaa/)
 
 ---
 
@@ -23,9 +23,6 @@ I work across .NET, SQL, React, Azure, and CI/CD.
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshaa&layout=compact&langs_count=8)
-
 
 ---
 
@@ -48,3 +45,5 @@ I work across .NET, SQL, React, Azure, and CI/CD.
 
 - Deepening Azure integration (Functions, Service Bus, APIM, Cosmos)  
 - Building React frontends .✨
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshaa&layout=compact&langs_count=8)
