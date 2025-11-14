@@ -28,12 +28,8 @@ I work across .NET, SQL, React, Azure, and CI/CD.
 
 ### 🧾 Certifications
 
-<p align="left">
-  <img src="az-204-badge.png" alt="Microsoft Certified: Azure Developer Associate (AZ-204)" width="120" />
-  <img src="aws-developer-associate-badge.png" alt="AWS Certified Developer – Associate" width="120" />
-</p>
-
-<!-- Export your official badge images (e.g. from Credly), save them in the repo, and point the src paths above to those files. -->
+![AZ-204](https://img.shields.io/badge/AZ--204%20Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS Developer Associate](https://img.shields.io/badge/AWS%20Developer%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
