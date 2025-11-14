@@ -3,6 +3,8 @@
 .NET developer with 2 years of professional experience.  
 I work across .NET, SQL, React, Azure, and CI/CD.
 
+![Profile views](https://komarev.com/ghpvc/?username=Roshaa&label=Profile%20views&color=0e75b6&style=flat)
+
 ### 📫 Links
 
 - **LinkedIn:** [linkedin.com/in/ricardo-rocha-43bb952b9](https://www.linkedin.com/in/ricardo-rocha-43bb952b9/)
@@ -22,7 +24,8 @@ I work across .NET, SQL, React, Azure, and CI/CD.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![Profile views](https://komarev.com/ghpvc/?username=Roshaa&label=Profile%20views&color=0e75b6&style=flat)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshaa&layout=compact&langs_count=8)
+
 
 ---
 
