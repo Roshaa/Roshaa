@@ -1,9 +1,9 @@
-## C# | .NET | Azure 🌈
+## C# | .NET | Azure
 
 .NET developer with 2 years of professional experience.  
 I work across .NET, SQL, React, Azure, and CI/CD.
 
-### 📫 How to Reach Me
+### 📫 Links
 
 - **LinkedIn:** [linkedin.com/in/ricardo-rocha-43bb952b9](https://www.linkedin.com/in/ricardo-rocha-43bb952b9/)
 - **LeetCode:** [@your-handle]((https://leetcode.com/u/Roshaa/))
@@ -44,4 +44,4 @@ I work across .NET, SQL, React, Azure, and CI/CD.
 ### 🚀 Current Focus
 
 - Deepening Azure integration (Functions, Service Bus, APIM, Cosmos)  
-- Building React frontends on top of .NET backends ✨
+- Building React frontends .✨
