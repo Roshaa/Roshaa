@@ -1,12 +1,12 @@
 ## C# | .NET | Azure 🌈
 
 .NET developer with 2 years of professional experience.  
-I work across .NET, SQL, React, Azure, and CI/CD to ship solutions that don’t fall apart in prod.
+I work across .NET, SQL, React, Azure, and CI/CD.
 
 ### 📫 How to Reach Me
 
 - **LinkedIn:** [linkedin.com/in/ricardo-rocha-43bb952b9](https://www.linkedin.com/in/ricardo-rocha-43bb952b9/)
-- **LeetCode:** [@your-handle](https://leetcode.com/your-handle/) <!-- swap your-handle for your actual LeetCode username -->
+- **LeetCode:** [@your-handle]((https://leetcode.com/u/Roshaa/))
 
 ---
 
@@ -23,27 +23,6 @@ I work across .NET, SQL, React, Azure, and CI/CD to ship solutions that don’t 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Roshaa&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-### 📊 Used Languages & Frameworks
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32" alt="SQL Server" />
-</p>
-
-- **Backend:** C#, .NET, ASP.NET Core, EF Core  
-- **Cloud:** Azure Functions, Azure Service Bus, API Management, Cosmos DB, AWS (Lambda, S3, API Gateway)  
-- **Frontend:** React, a bit of Angular  
-- **Data:** SQL Server, MySQL  
-- **DevOps:** GitHub Actions, Azure DevOps, Docker
 
 ---
 
