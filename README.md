@@ -5,13 +5,6 @@ I work across .NET, SQL, React, Azure, and CI/CD.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Roshaa&label=Profile%20views&color=0e75b6&style=flat)
 
-### 📫 Links
-
-- **LinkedIn:** [linkedin.com/in/ricardo-rocha-43bb952b9](https://www.linkedin.com/in/ricardo-rocha-43bb952b9/)
-- **LeetCode:** [@Roshaa](https://leetcode.com/u/Roshaa/)
-
----
-
 ### 🛠 Tech Stack & Tools
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
