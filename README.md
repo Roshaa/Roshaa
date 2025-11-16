@@ -1,7 +1,7 @@
 ## C# | .NET | Azure
 
 .NET developer with 2 years of professional experience.  
-I work across .NET, SQL, React, Azure, and CI/CD.
+I work across .NET, SQL, Angular, Azure, and CI/CD.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Roshaa&label=Profile%20views&color=0e75b6&style=flat)
 
