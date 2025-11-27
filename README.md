@@ -36,7 +36,8 @@ I work across .NET, SQL, Angular, Azure, and CI/CD.
 
 ### 🚀 Current Focus
 
-- Deepening Azure integration (Functions, Service Bus, APIM, Cosmos)  
-- Building React frontends .✨
+- Focused on AZ400, i think it will make me a better backend dev. github will stay paused until then.
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshaa&layout=compact&langs_count=8)
