@@ -36,7 +36,7 @@ I work across .NET, SQL, Angular, Azure, and CI/CD.
 
 ### 🚀 Current Focus
 
-- Focused on AZ400, i think it will make me a better backend dev. github will stay paused until then.
+- Focused on AZ400
 
 
 
