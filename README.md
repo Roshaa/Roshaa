@@ -1,8 +1,6 @@
 ## C# | .NET | Azure
 
 .NET developer with 2 years of professional experience.  
-I work across .NET, SQL, Angular, Azure, and CI/CD.
-
 ![Profile views](https://komarev.com/ghpvc/?username=Roshaa&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 🛠 Tech Stack & Tools
@@ -24,20 +22,6 @@ I work across .NET, SQL, Angular, Azure, and CI/CD.
 ![AZ-204](https://img.shields.io/badge/AZ--204%20Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS Developer Associate](https://img.shields.io/badge/AWS%20Developer%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
-
-### ⭐ Highlighted Projects
-
-- **Azure File Ingestion (APIM + Functions + Blob + Queue + Cosmos)** · Secure upload → event-driven processing → Cosmos DB, wired with GitHub Actions and Azure resources that look like real-world infra.  
-- **Gym Management Microservices (.NET + Azure)** · Multi-service backend (auth, members, promos, etc.) showcasing microservices architecture and cloud-native patterns.  
-- **MMO Post Office (Azure Service Bus Topics)** · Messaging-heavy scenario using topics, subscriptions, sessions, filters, and DLQs to mimic MMO-style in-game mail.
-
----
-
 ### 🚀 Current Focus
 
-- Focused on AZ400
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshaa&layout=compact&langs_count=8)
+- AZ400
