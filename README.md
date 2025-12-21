@@ -21,7 +21,3 @@
 
 ![AZ-204](https://img.shields.io/badge/AZ--204%20Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS Developer Associate](https://img.shields.io/badge/AWS%20Developer%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🚀 Current Focus
-
-- AZ400
