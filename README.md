@@ -1,6 +1,6 @@
 ## C# | .NET | Azure
 
-.NET developer with 2 years of professional experience.  
+.NET developer with over 2 years of experience.  
 ![Profile views](https://komarev.com/ghpvc/?username=Roshaa&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 🛠 Tech Stack & Tools
